@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Therapy</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://ptdemo.hrbenefits.online/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ptdemo.hrbenefits.online</link>
 	<description>your employee benefits</description>
 	<lastBuildDate>Tue, 22 Aug 2023 16:13:48 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
-	<url>/wp-content/uploads/sites/15/2022/02/pts-favicon.svg</url>
+	<url>https://ptdemo.hrbenefits.online/wp-content/uploads/sites/15/2022/02/pts-favicon.svg</url>
 	<title>Therapy</title>
-	<link></link>
+	<link>https://ptdemo.hrbenefits.online</link>
 	<width>32</width>
 	<height>32</height>
 </image> 

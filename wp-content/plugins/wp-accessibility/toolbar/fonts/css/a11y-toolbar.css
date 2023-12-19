@@ -1,11 +1,11 @@
 @font-face {
 	font-family: 'a11y';
-	src:url('/wp-content/plugins/wp-accessibility/toolbar/fonts/css/a11y.eot');
-	src:url('/wp-content/plugins/wp-accessibility/toolbar/fonts/css/a11y.eot#iefix') format('embedded-opentype'),
-		url('/wp-content/plugins/wp-accessibility/toolbar/fonts/css/a11y.woff2') format('woff2'),
-		url('/wp-content/plugins/wp-accessibility/toolbar/fonts/css/a11y.woff') format('woff'),
-		url('/wp-content/plugins/wp-accessibility/toolbar/fonts/css/a11y.ttf') format('truetype'),
-		url('/wp-content/plugins/wp-accessibility/toolbar/fonts/css/a11y.svg#a11y') format('svg');
+	src:url('https://ptdemo.hrbenefits.online/wp-content/plugins/wp-accessibility/toolbar/fonts/css/a11y.eot');
+	src:url('https://ptdemo.hrbenefits.online/wp-content/plugins/wp-accessibility/toolbar/fonts/css/a11y.eot#iefix') format('embedded-opentype'),
+		url('https://ptdemo.hrbenefits.online/wp-content/plugins/wp-accessibility/toolbar/fonts/css/a11y.woff2') format('woff2'),
+		url('https://ptdemo.hrbenefits.online/wp-content/plugins/wp-accessibility/toolbar/fonts/css/a11y.woff') format('woff'),
+		url('https://ptdemo.hrbenefits.online/wp-content/plugins/wp-accessibility/toolbar/fonts/css/a11y.ttf') format('truetype'),
+		url('https://ptdemo.hrbenefits.online/wp-content/plugins/wp-accessibility/toolbar/fonts/css/a11y.svg#a11y') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
